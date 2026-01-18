@@ -1,0 +1,19 @@
+# Secrets
+
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+myvenv/
+
+# Logs
+logs/
+*.log
+
+# Data (since raw data can be very large)
+data/raw/
+
+# dbt 
+target/
+dbt_packages/
