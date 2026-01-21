@@ -17,3 +17,10 @@ data/raw/
 # dbt 
 target/
 dbt_packages/
+
+# Ignore Dagster temporary files
+.tmp_dagster_home*
+dagster_home/
+storage/
+*.db-shm
+*.db-wal
