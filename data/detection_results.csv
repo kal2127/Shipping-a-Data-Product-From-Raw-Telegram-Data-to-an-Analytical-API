@@ -1,0 +1,216 @@
+message_id,detected_class,confidence_score,image_category
+10,,0.0,other
+11,clock,0.4272936284542084,other
+13,"donut, hot dog",0.5038546919822693,other
+14,,0.0,other
+15,,0.0,other
+17,bottle,0.5259650349617004,product_display
+18,,0.0,other
+19,"person, dining table",0.9401442408561707,lifestyle
+2,bottle,0.38718265295028687,product_display
+20,"person, dining table",0.9401442408561707,lifestyle
+21,bird,0.25255754590034485,other
+22,stop sign,0.27750536799430847,other
+23,cell phone,0.610697865486145,other
+25,"cell phone, person",0.8613103628158569,lifestyle
+26,"book, cup, person",0.8275559544563293,promotional
+27,,0.0,other
+29,"person, surfboard",0.6185224652290344,lifestyle
+3,,0.0,other
+30,person,0.4139041602611542,lifestyle
+31,bottle,0.5125073790550232,product_display
+32,person,0.5881935954093933,lifestyle
+33,"book, orange",0.6712222695350647,other
+34,,0.0,other
+38,,0.0,other
+39,mouse,0.9113696217536926,other
+4,,0.0,other
+40,person,0.7191462516784668,lifestyle
+41,person,0.4210361838340759,lifestyle
+43,"chair, person",0.8564761877059937,lifestyle
+44,"cell phone, person",0.9386716485023499,lifestyle
+45,scissors,0.6319935321807861,other
+46,"person, tv",0.8272138833999634,lifestyle
+48,,0.0,other
+49,"frisbee, kite",0.6801514625549316,other
+50,cake,0.29161056876182556,other
+52,"person, horse",0.7039297223091125,lifestyle
+53,person,0.573768675327301,lifestyle
+55,stop sign,0.3071293234825134,other
+56,person,0.8329588770866394,lifestyle
+57,"potted plant, person",0.8896958827972412,lifestyle
+58,bottle,0.41152629256248474,product_display
+59,bottle,0.28661638498306274,product_display
+60,,0.0,other
+64,"remote, person, banana",0.6864548325538635,lifestyle
+67,"book, stop sign",0.5792272090911865,other
+70,"potted plant, book, person",0.924700140953064,lifestyle
+71,person,0.8835617899894714,lifestyle
+74,,0.0,other
+75,person,0.8353005647659302,lifestyle
+76,"chair, person",0.8694229125976562,lifestyle
+77,bottle,0.9558238387107849,product_display
+78,person,0.7698584198951721,lifestyle
+79,,0.0,other
+80,"chair, bottle, person",0.9279417395591736,promotional
+81,bottle,0.8817965388298035,product_display
+82,"bottle, apple",0.8991732001304626,product_display
+85,,0.0,other
+86,"refrigerator, person",0.9013165235519409,lifestyle
+87,parking meter,0.27856072783470154,other
+88,,0.0,other
+9,bottle,0.38718265295028687,product_display
+90,book,0.30779942870140076,other
+91,,0.0,other
+92,,0.0,other
+93,person,0.9076734185218811,lifestyle
+94,"person, cup",0.7408691048622131,promotional
+95,person,0.868440568447113,lifestyle
+96,cup,0.3260035216808319,product_display
+97,,0.0,other
+22840,"bottle, person",0.7900386452674866,promotional
+22841,,0.0,other
+22842,bottle,0.7326324582099915,product_display
+22843,"bottle, book",0.3064354658126831,product_display
+22844,"bottle, person",0.7900386452674866,promotional
+22845,,0.0,other
+22846,"book, person",0.4573270380496979,lifestyle
+22847,bottle,0.8006815314292908,product_display
+22848,person,0.5967599749565125,lifestyle
+22849,,0.0,other
+22850,,0.0,other
+22851,bottle,0.5879693627357483,product_display
+22852,,0.0,other
+22853,,0.0,other
+22854,,0.0,other
+22855,,0.0,other
+22856,,0.0,other
+22857,bottle,0.501695454120636,product_display
+22858,,0.0,other
+22859,bottle,0.5791776776313782,product_display
+22860,bottle,0.38477855920791626,product_display
+22861,person,0.5967599749565125,lifestyle
+22862,bottle,0.9318896532058716,product_display
+22863,"bottle, dining table",0.9044639468193054,product_display
+22864,dining table,0.2931026518344879,other
+22865,bottle,0.7241195440292358,product_display
+22866,,0.0,other
+22867,book,0.2753816545009613,other
+22868,bottle,0.2802514433860779,product_display
+22869,,0.0,other
+22870,bottle,0.5707804560661316,product_display
+22871,"bottle, book",0.35020118951797485,product_display
+22872,bottle,0.9156717658042908,product_display
+22873,bottle,0.8690326809883118,product_display
+22874,cell phone,0.46346771717071533,other
+22875,,0.0,other
+22876,bottle,0.5707804560661316,product_display
+22877,,0.0,other
+22878,,0.0,other
+22879,"person, surfboard",0.6241413354873657,lifestyle
+22880,,0.0,other
+22881,,0.0,other
+22882,bottle,0.8308452367782593,product_display
+22883,,0.0,other
+22884,teddy bear,0.3179367184638977,other
+22885,,0.0,other
+22886,,0.0,other
+22887,,0.0,other
+22888,,0.0,other
+22889,bottle,0.8699761033058167,product_display
+22890,"bottle, dining table",0.4841199517250061,product_display
+22891,bottle,0.5879693627357483,product_display
+22892,parking meter,0.2554703652858734,other
+22893,"person, surfboard",0.6241413354873657,lifestyle
+22894,"person, stop sign",0.6789198517799377,lifestyle
+22895,,0.0,other
+22896,bottle,0.6552395224571228,product_display
+22897,bottle,0.8551762104034424,product_display
+22898,suitcase,0.32225194573402405,other
+22899,oven,0.25304141640663147,other
+22900,,0.0,other
+22901,bottle,0.5191170573234558,product_display
+22902,,0.0,other
+22903,,0.0,other
+22904,bottle,0.5879693627357483,product_display
+22905,,0.0,other
+22906,,0.0,other
+22907,refrigerator,0.4816795289516449,other
+22908,"cup, orange, apple",0.6904139518737793,product_display
+22909,parking meter,0.2554703652858734,other
+22910,,0.0,other
+22911,bottle,0.5707804560661316,product_display
+22912,,0.0,other
+22913,,0.0,other
+22914,bottle,0.501695454120636,product_display
+22915,cell phone,0.31958022713661194,other
+22916,"person, surfboard",0.6241413354873657,lifestyle
+22917,"person, stop sign",0.6789198517799377,lifestyle
+22918,clock,0.27008143067359924,other
+22919,cake,0.5485907196998596,other
+22920,bottle,0.901940643787384,product_display
+22921,bottle,0.8162502646446228,product_display
+22922,bottle,0.35074251890182495,product_display
+22923,,0.0,other
+22924,,0.0,other
+22925,,0.0,other
+22926,,0.0,other
+22927,,0.0,other
+22928,bottle,0.8699761033058167,product_display
+22929,"bottle, dining table",0.4841199517250061,product_display
+22930,parking meter,0.2554703652858734,other
+22931,"person, surfboard",0.6241413354873657,lifestyle
+22932,,0.0,other
+22933,,0.0,other
+22934,bottle,0.5879693627357483,product_display
+22935,,0.0,other
+22936,refrigerator,0.4816795289516449,other
+22937,"cup, orange, apple",0.6904139518737793,product_display
+22938,,0.0,other
+22939,clock,0.27008143067359924,other
+188903,"scissors, person, sports ball",0.7996264100074768,lifestyle
+188907,"scissors, person, sports ball",0.7996264100074768,lifestyle
+188914,,0.0,other
+188915,scissors,0.9073540568351746,other
+188920,"cell phone, person",0.42984965443611145,lifestyle
+188926,vase,0.49708643555641174,product_display
+188927,,0.0,other
+188931,,0.0,other
+188936,,0.0,other
+188938,vase,0.49708643555641174,product_display
+188940,,0.0,other
+188941,,0.0,other
+188942,scissors,0.9073540568351746,other
+188954,"scissors, person, sports ball",0.7996264100074768,lifestyle
+188960,,0.0,other
+188962,"bottle, refrigerator",0.7155637145042419,product_display
+188970,person,0.7788913249969482,lifestyle
+188973,,0.0,other
+188975,person,0.6697084903717041,lifestyle
+188979,person,0.37465447187423706,lifestyle
+188981,"bottle, refrigerator",0.40849098563194275,product_display
+188982,"bottle, person",0.8333333134651184,promotional
+188983,chair,0.4274462163448334,other
+188984,,0.0,other
+188985,refrigerator,0.9096161127090454,other
+188986,"bottle, refrigerator",0.34113478660583496,product_display
+188990,book,0.2851199209690094,other
+188991,"laptop, book",0.5122963190078735,other
+188993,"bottle, refrigerator",0.7155637145042419,product_display
+188996,,0.0,other
+188997,person,0.4294895529747009,lifestyle
+189002,"clock, person",0.8240984082221985,lifestyle
+189003,clock,0.5962027907371521,other
+189007,"bottle, refrigerator",0.7155637145042419,product_display
+189010,person,0.4294895529747009,lifestyle
+189011,"keyboard, mouse, remote, cup, chair, person, tv, laptop",0.8901025056838989,promotional
+189012,person,0.835442066192627,lifestyle
+189013,"tennis racket, person",0.9043031334877014,lifestyle
+189014,"handbag, book, person",0.8708752989768982,lifestyle
+189015,person,0.8516660928726196,lifestyle
+189016,person,0.9118748903274536,lifestyle
+189017,"remote, chair, person, tv",0.8632500171661377,lifestyle
+189018,person,0.8415619730949402,lifestyle
+189019,"person, teddy bear",0.9120907187461853,lifestyle
+189020,"potted plant, cell phone, cake, person",0.9248760342597961,lifestyle
+189022,vase,0.49708643555641174,product_display
